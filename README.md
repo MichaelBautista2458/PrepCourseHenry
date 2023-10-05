@@ -1,2 +1,2 @@
-# PrepCourseHenry
-Este es un repositorio de prueba del modulo 2 del PrepCourse de Henry
+Michael Steve Bautista Rey 
+Este proyecto es una prueba de com ocrear un repositorio y clonarlo en nuestro repositorio local
